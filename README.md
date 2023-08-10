@@ -13,9 +13,9 @@
 <div align = "center">
   
 # 📊 GitHub Stats:
-![C](https://github-readme-stats.vercel.app/api?username=Akshitaj25&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&height=100&width=200&layout=compact)<br/>
+![C](https://github-readme-stats.vercel.app/api?username=Akshitaj25&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&height=100&width=200&layout=compact)
 
-![C](https://github-readme-streak-stats.herokuapp.com/?user=Akshitaj25&theme=monokai&hide_border=false)<br/>
+![C](https://github-readme-streak-stats.herokuapp.com/?user=Akshitaj25&theme=monokai&&height=50&width=100&layout=compact&hide_border=false)<br/>
   
 ![C](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshitaj25&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### <p align = "center" > ✍️ Random Dev Quote  <align>
