@@ -13,7 +13,7 @@
 <div align = "center">
   
 # 📊 GitHub Stats:
-![C](https://github-readme-stats.vercel.app/api?username=Akshitaj25&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&height=200&width=400)<br/>
+![C](https://github-readme-stats.vercel.app/api?username=Akshitaj25&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&height=100&width=200&layout=compact)<br/>
 
 ![C](https://github-readme-streak-stats.herokuapp.com/?user=Akshitaj25&theme=monokai&hide_border=false)<br/>
   
